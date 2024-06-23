@@ -1,6 +1,10 @@
 # Digital Steganography
 
-Steganography is an intriguing and successful data concealment technology that has been used for centuries. As time progresses, steganography becomes increasingly more important due to cyber security concerns. In the 21st century, cyber attacks have emerged as new methods of warfare against opposing parties, leading to greater adoption of steganography alongside cryptography. Despite this, steganography has been applied for a long time, even during Ancient Greece as described in the seminar paper. Key concepts of digital processing such as spectral transformations like DFT, DCT, DWT, and methods in the spatial domain like LSB, PVD, TPVD, are associated with steganography. In addition to classical digital processing, with the advancement of technology through deep learning and the quantum realm, steganography will undoubtedly become more prevalent in the world.
+- Steganography is the practice of hiding information within other non-secret data to ensure its secrecy and security. This technique distinguishes itself from encryption by not just protecting the contents of a message but also concealing the fact that a message exists at all. In the digital realm, steganography entails embedding hidden messages, images, or files within innocuous carrier files such as images, audio files, video files, or text documents.
+
+- Steganography remains an aspect of secure communication, with a rich history and significant contemporary relevance. As the field continues to evolve with advancements in quantum computing and artificial intelligence, the potential for new and more effective steganographic techniques grows. 
+
+- This repository contains algorithms and techniques for steganography, providing methods for embedding data covertly into multimedia files and extracting hidden information without arousing suspicion. By exploring these methods, users can gain insights into the principles of steganography and its applications in digital communication and security.
 
 ## Main Window Overview:
 The following image shows the main window:
